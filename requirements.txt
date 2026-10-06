@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+scikit-learn
+joblib
+librosa
+soundfile
+pychorus   # only needed for src/extract_features.py (raw audio)
